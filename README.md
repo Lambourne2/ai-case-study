@@ -6,7 +6,7 @@
   Project CETI (Cetacean Translation Initiative)
 
 - **Incorporation Date:**  
-  Not specified.
+  2020
 
 - **Founders:**  
   Key collaborators include Pratyusha Sharma, Shane Gero, Roger Payne, and researchers from MIT, Carleton University, and other institutions.
