@@ -1,4 +1,8 @@
-# Exploration of Whale Vocalizations and the Role of AI
+# Exploration of Whale Vocalizations and the Role of AI through Project CETI
+
+What if we could talk to whales? Imagine decoding the songs of our planet's most enigmatic giants—unlocking not just their voices, but their stories, cultures, and perhaps even wisdom. **Project CETI (Cetacean Translation Initiative)** is a groundbreaking journey into the unknown, combining the best of human ingenuity, cutting-edge AI, and the age-old dream of understanding the natural world.
+
+---
 
 ## Overview and Origin
 
@@ -90,3 +94,20 @@
 - **Relevance of Technologies:**  
   - Immersive experiences foster greater understanding and appreciation of whale communication.
 
+---
+
+## Sources
+
+1. [Contextual and Combinatorial Structure in Sperm Whale Vocalizations](https://www.nature.com/articles/s41467-024-47221-8) - *Nature Communications*  
+2. [Heterogeneity and Predictors of the Effects of AI Assistance on Radiologists](https://www.nature.com/articles/s41591-024-02850-w) - *Nature Medicine*  
+3. [Discovery of a Low Frequency Sound Source in Mysticeti (Baleen Whales)](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.20544) - *The Anatomical Record*  
+4. [The Way Whales Communicate is Closer to Human Language Than We Realized](https://www.technologyreview.com/2024/05/07/1092127/the-way-whales-communicate-is-closer-to-human-language-than-we-realized/) - *MIT Technology Review*  
+5. [Investigating Individual Distinctiveness in the Calls of Wild Belugas](https://www.raincoast.org/2022/09/investigating-individual-distinctiveness-in-the-calls-of-wild-belugas/) - *Raincoast Conservation Foundation*  
+6. [What Are Dolphins Talking About? Cutting-Edge Linguistics, AI, and Machine Learning](https://www.allaboutcircuits.com/news/what-dolphins-talking-cutting-edge-linguistics-ai-machine-learning-gavagai/) - *All About Circuits*  
+7. [A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint](https://www.scientificamerican.com/article/a-computer-scientist-breaks-down-generative-ais-hefty-carbon-footprint/) - *Scientific American*  
+8. [Scientists Contact Whales in World-First Communication Experiment](https://www.sciencealert.com/scientists-contact-whales-in-world-first-communication-experiment) - *Science Alert*  
+9. [Did Scientists Converse with a Humpback Whale?](https://www.statedclearly.com/articles/did-scientists-converse-with-a-humpback-whale/) - *Stated Clearly*  
+10. [Whale Communication: A Coda Alphabet Decoded](https://www.cnn.com/2024/05/13/world/whale-communication-coda-alphabet-scn/index.html) - *CNN*  
+11. [The Sperm Whale Phonetic Alphabet Revealed by AI](https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai) - *BBC Future*  
+12. [Why It’s Impossible to Build an Unbiased AI Language Model](https://www.technologyreview.com/2023/08/08/1077403/why-its-impossible-to-build-an-unbiased-ai-language-model/) - *MIT Technology Review*  
+13. [Project CETI](https://en.wikipedia.org/wiki/Project_CETI) - *Wikipedia*  
